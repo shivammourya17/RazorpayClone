@@ -10,12 +10,52 @@ About page with information about the company and its mission
 Footer section with links to social media profiles and legal pages
 Responsive design that adapts to different screen sizes and devices
 
-# Getting Started
-To run the website locally, you can follow these steps :
+## 📌 Features
 
-Clone the repository to your local machine:
-Open the index.html file in your web browser
-Modify the HTML and CSS files as needed to customize the website
+- Styled with Tailwind CSS
+- Modern and sleek UI
 
-# Credits
-The website design and content is based on the official Razorpay website (https://razorpay.com/), with some modifications to fit the scope of this project. The Tailwind CSS framework is used for styling and layout, with some custom CSS added for additional features.
+## 🚀 Tech Stack
+
+- **HTML**
+- **CSS**
+- **Tailwind CSS**
+
+## 🛠️ Setup & Installation
+
+1. **Clone the repository**
+
+   ```sh
+   git clone https://github.com/your-username/razorpay-clone.git
+   cd razorpay-clone
+   ```
+
+2. **Install dependencies**
+
+   ```sh
+   npm install
+   ```
+
+3. **Run the project**
+
+   ```sh
+   npm start
+   ```
+
+4. **Open in Browser**
+
+   - The project should now be running on `http://localhost:3000` (or the port specified by Vite).
+
+## 🌟 Contributing
+
+Feel free to contribute by creating pull requests or opening issues.
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+⭐ Don't forget to **star** the repository if you found this helpful!
+
+
