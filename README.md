@@ -26,8 +26,7 @@ Responsive design that adapts to different screen sizes and devices
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/your-username/razorpay-clone.git
-   cd razorpay-clone
+   git clone https://github.com/shivammourya17/RazorpayClone.git
    ```
 
 2. **Install dependencies**
